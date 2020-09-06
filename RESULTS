@@ -1,0 +1,15 @@
+Accuracy exp cat_ 4.npy  :  0.989
+Accuracy exp cat_ 10.npy  :  0.991
+Accuracy exp cat_ 7.npy  :  0.991
+Accuracy exp cat_ 16.npy  :  0.992
+Accuracy exp cat_ 1.npy  :  0.991
+Accuracy exp cat_ 13.npy  :  0.988
+
+Accuracy exp tractor_ 5.npy  :  0.994
+Accuracy exp tractor_ 11.npy  :  0.994
+Accuracy exp tractor_ 8.npy  :  0.998
+Accuracy exp tractor_ 17.npy  :  0.993
+Accuracy exp tractor_ 2.npy  :  0.993
+Accuracy exp tractor_ 14.npy  :  0.995
+
+Accuracy exp their_cat:  0.991
